@@ -1,0 +1,14 @@
+{
+  "name": "twoleds/database",
+  "type": "library",
+  "description": "Simple interface for accessing databases.",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Twoleds\\Database\\": "src"
+    }
+  },
+  "require": {
+    "php": ">=7.0"
+  }
+}
